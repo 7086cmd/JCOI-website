@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jcoi.cf</id>
+    <title>JCOI</title>
+    <updated>2020-10-06T12:24:54.318Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jcoi.cf"/>
+    <link rel="self" href="https://jcoi.cf/atom.xml"/>
+    <subtitle>蛟川OI交流网</subtitle>
+    <logo>https://jcoi.cf/images/avatar.png</logo>
+    <icon>https://jcoi.cf/favicon.ico</icon>
+    <rights>All rights reserved 2020, JCOI</rights>
+</feed>
